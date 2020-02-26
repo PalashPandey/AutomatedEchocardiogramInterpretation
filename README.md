@@ -4,6 +4,6 @@
 
 ## The images are an example of the model input and output as a showcase. 
 
-Original Frame             |  Overlay Frame          |  Segmentation Frame 
+Original Frame             |  Segmentation Frame          |  Overlay Frame 
 :-------------------------:|:-------------------------:|:-------------------------:
-![Original Echo Frame](47OLQZXI0_0_originalimage.png)  |  ![Original Echo Frame](47OLQZXI0_0_overlay.png)   |  ![Original Echo Frame](47OLQZXI0_0_segmentation.png)
+![Original Echo Frame](47OLQZXI0_0_originalimage.png)  |  ![Original Echo Frame](47OLQZXI0_0_segmentation.png)   |  ![Original Echo Frame](47OLQZXI0_0_overlay.png)
